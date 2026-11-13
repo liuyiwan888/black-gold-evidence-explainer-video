@@ -1,0 +1,8 @@
+{
+  "scenes": [
+    {"kind":"title","chapter":"制作演示","title":"让观点有据可查","headline":"文案 → 证据 → 成片","detail":"黑金证据式解说视频","narration":"一条有说服力的解说视频，既要讲清观点，也要让观众看见证据。","source":"模板演示 · 原创说明文案"},
+    {"kind":"timeline","chapter":"叙事结构","title":"按理解顺序展开","items":[{"label":"01 提出问题","text":"给观众一个继续看的理由"},{"label":"02 展开证据","text":"用资料和图解解释原因"},{"label":"03 回扣观点","text":"把结论交还给开头的问题"}],"narration":"先提出问题，再用资料和图解解释原因。最后回到开头，给出有依据的结论。","source":"模板演示 · 非新闻报道"},
+    {"kind":"relationship","chapterNumber":2,"chapter":"资料组织","title":"三类材料支持一个判断","items":[{"label":"原始资料"},{"label":"数据图表"},{"label":"事件脉络"}],"target":"可核查的结论","narration":"原始资料、数据图表和事件脉络，应该共同支持判断。箭头表达关系，字幕跟随旁白。","source":"模板演示 · 关系图为方法示意"},
+    {"kind":"title","chapterNumber":3,"chapter":"交付","title":"保留来源，也保留判断空间","headline":"每个重点\n都有对应画面","detail":"样片展示基础动效，完整复刻仍需逐镜编排。","narration":"这是一段可运行的基础模板演示。制作完整作品时，还需要加入真实素材，并逐镜调整节奏。","source":"由仓库内 render.py 实际渲染"}
+  ]
+}
